@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PLAYERS>
+	<CREATURE MYNAME="Agnog">
+		<AC>20</AC>
+		<FT>18</FT>
+		<RF>15</RF>
+		<WL>16</WL>
+		<PI>18</PI>
+		<PP>18</PP>
+	</CREATURE>
+	<CREATURE MYNAME="Menethil">
+		<AC>23</AC>
+		<FT>18</FT>
+		<RF>19</RF>
+		<WL>18</WL>
+		<PI>20</PI>
+		<PP>15</PP>
+	</CREATURE>
+	<CREATURE MYNAME="Neeshka">
+		<AC>19</AC>
+		<FT>17</FT>
+		<RF>17</RF>
+		<WL>17</WL>
+		<PI>13</PI>
+		<PP>13</PP>
+	</CREATURE>
+	<CREATURE MYNAME="Eskander">
+		<AC>19</AC>
+		<FT>15</FT>
+		<RF>14</RF>
+		<WL>13</WL>
+		<PI>12</PI>
+		<PP>11</PP>
+	</CREATURE>
+	<CREATURE MYNAME="Handy">
+		<AC>21</AC>
+		<FT>22</FT>
+		<RF>23</RF>
+		<WL>24</WL>
+		<PI>25</PI>
+		<PP>26</PP>
+	</CREATURE>
+</PLAYERS>
